@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Rsrc-Main-Class:    com.javarush.games.racer.RacerGame
+Class-Path: .\jarlib
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
